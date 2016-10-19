@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GetSensorsActivity!</string>
+    <string name="app_name">GetSensors</string>
+    <string name="enableSensor">Enable</string>
+    <string name="sensorcaption">Sensor</string>
+    <string name="delaymodecaption">Sensor Delay Mode</string>
+    <string name="orient">Orientation</string>
+    <string name="gyro">Gyroscope</string>
+    <string name="accl">Accelerometer</string>
+    <string name="magnet">Magnetic</string>
+    <string name="proximity">Proximity</string>
+    <string name="light">Light</string>
+    <string name="fastest">Fastest</string>
+    <string name="game">Game</string>
+    <string name="normal">Normal</string>
+    <string name="ui">UI</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="sensordata_folder">SensorData</string>
+    <string name="fileinterval">File Interval: </string>
+    <string name="defaultinfo">Press the button to record Sensor data!</string>
+    <string name="no_sensorWiFiGPS">No sensor is installed/enabled in this phone!</string>
+    <string name="promptselect">No enabled Sensor is selected. Please select Sensor!</string>
+    <string name="wifi">WiFi</string>
+    <string name="gps">GPS</string>
+    <string name="recCont">Cont.</string>
+    <string name="myalarm">MY_ALARM</string>
+    <string name="serverIP">Server IP:</string>
+    <string name="serverport">Server Port:</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="alert_msg">Please input server IP and Port!</string>
+</resources>
